@@ -1,2 +1,6 @@
 # jakoncar
-car
+Opencv controlled car
+## How to use ...
+## requrements ..
+content...
+
